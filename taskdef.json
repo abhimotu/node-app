@@ -3,7 +3,7 @@
     "containerDefinitions": [
         {
             "name": "nodeapp",
-            "image": "<IMAGE>",
+            "image": "<IMAGE1_NEW>",
             "essential": true,
             "portMappings": [
                 {
